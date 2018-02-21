@@ -1,0 +1,12 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "object-literal-sort-keys": false,
+    "object-literal-shorthand": false,
+    "quotemark": false,
+    "no-var-requires": false,
+    "class-name": false,
+    "no-empty": false,
+    "member-access": false
+  }
+}
