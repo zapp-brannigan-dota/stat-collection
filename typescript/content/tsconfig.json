@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny" : true,
+    "noImplicitThis" : true,
+    "alwaysStrict" : true,
+    "strictNullChecks" : true,
+    "target": "es3",
+    "outDir": "../../typescript_build/content/dota_addons/YOUR_ADDON/panorama/scripts/custom_game"
+  }
+}
